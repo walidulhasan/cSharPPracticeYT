@@ -1,0 +1,15 @@
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\bin\Debug\net7.0\cSharPPracticeYT.exe
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\bin\Debug\net7.0\cSharPPracticeYT.deps.json
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\bin\Debug\net7.0\cSharPPracticeYT.runtimeconfig.json
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\bin\Debug\net7.0\cSharPPracticeYT.dll
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\bin\Debug\net7.0\cSharPPracticeYT.pdb
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\cSharPPracticeYT.csproj.AssemblyReference.cache
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\cSharPPracticeYT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\cSharPPracticeYT.AssemblyInfoInputs.cache
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\cSharPPracticeYT.AssemblyInfo.cs
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\cSharPPracticeYT.csproj.CoreCompileInputs.cache
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\cSharPPracticeYT.dll
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\refint\cSharPPracticeYT.dll
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\cSharPPracticeYT.pdb
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\cSharPPracticeYT.genruntimeconfig.cache
+D:\Tutorial PPTX\C#\cSharPPracticeYT\cSharPPracticeYT\obj\Debug\net7.0\ref\cSharPPracticeYT.dll

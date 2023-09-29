@@ -1,3 +1,3 @@
 ﻿using cSharPPracticeYT;
 
-ArithmeticOperators.Main();
+//ArithmeticOperators.Main();

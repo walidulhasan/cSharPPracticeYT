@@ -1,6 +1,6 @@
 ﻿namespace cSharPPracticeYT;
 
-public class ArithmeticOperators
+public class IncrementDecrementArithmeticOperators
 {
     public static void Main()
     {
@@ -22,7 +22,7 @@ public class ArithmeticOperators
         //++n Pre.
         Console.WriteLine($"++ {++number}");//11 // 1+10;
         //--n Pre.
-        Console.WriteLine($"-- {--number}");//10 // 1-10;
+        Console.WriteLine($"-- {--number}");//10 // 1-11;
 
         //n++ Post..
         Console.WriteLine($"n++ {numbers++}");//10 //11 //10+1;

@@ -1,5 +1,10 @@
 ﻿using cSharPPracticeYT;
 
 //ArithmeticOperators.Main();
+//ComparisonLogicalOperators.Main();
+BitwiseOperators.Main();
 
-ComparisonLogicalOperators.Main();
+
+
+Console.ReadLine();
+

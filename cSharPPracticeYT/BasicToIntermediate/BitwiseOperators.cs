@@ -1,4 +1,4 @@
-﻿namespace cSharPPracticeYT;
+﻿namespace cSharPPracticeYT.BasicToIntermediate;
 
 public class BitwiseOperators
 {

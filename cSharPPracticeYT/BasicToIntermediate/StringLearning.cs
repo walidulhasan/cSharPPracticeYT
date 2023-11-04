@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.Json;
-using System.Threading.Tasks;
-
-namespace cSharPPracticeYT;
+﻿namespace cSharPPracticeYT.BasicToIntermediate;
 
 public static class StringLearning
 {
@@ -20,7 +13,7 @@ public static class StringLearning
         StringValue = $"This Value Return {StringValue}";
         Console.WriteLine(StringValue);
 
-        StringValue = NumberOne +" Is Lass Then Number "+ NumberTwo;
+        StringValue = NumberOne + " Is Lass Then Number " + NumberTwo;
         Console.WriteLine(StringValue);
 
         StringValue = NumberOne.ToString().Replace(NumberOne.ToString(), "70");
@@ -33,7 +26,7 @@ public static class StringLearning
         string Greeting = "Hi";
         var obj = new { Name = "hi", Age = "hi" };
 
-        bool CompareString = (Greeting == "Hi");
+        bool CompareString = Greeting == "Hi";
         Console.WriteLine(CompareString);
         var StringCompare = Greeting.CompareTo(obj.Name);
         Console.WriteLine(StringCompare);

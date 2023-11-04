@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace cSharPPracticeYT;
+namespace cSharPPracticeYT.BasicToIntermediate;
 
 public class ComparisonLogicalOperators
 {
@@ -13,13 +13,13 @@ public class ComparisonLogicalOperators
         //Comparison Operators
 
         //==
-        Console.WriteLine($"== {2==3}");//False
+        Console.WriteLine($"== {2 == 3}");//False
         //!=
-        Console.WriteLine($"!= {2!=3}");//True
+        Console.WriteLine($"!= {2 != 3}");//True
         //>
-        Console.WriteLine($"> {2>3}"); //False
+        Console.WriteLine($"> {2 > 3}"); //False
         //<
-        Console.WriteLine($"< {3<3}");//False
+        Console.WriteLine($"< {3 < 3}");//False
         //<=
         Console.WriteLine($"<= {3 <= 3}");//True
         //>=
@@ -27,9 +27,9 @@ public class ComparisonLogicalOperators
 
         //Logical Operators
         //&&
-        Console.WriteLine($"&& {2==3 && 2>3}");//False
+        Console.WriteLine($"&& {2 == 3 && 2 > 3}");//False
         //||
-        Console.WriteLine($"|| {3==3 || 2>3}");//Ture
+        Console.WriteLine($"|| {3 == 3 || 2 > 3}");//Ture
         //!
         Console.WriteLine($"! {!true}");//False
     }

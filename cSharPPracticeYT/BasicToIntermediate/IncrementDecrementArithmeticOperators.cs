@@ -1,11 +1,11 @@
-﻿namespace cSharPPracticeYT;
+﻿namespace cSharPPracticeYT.BasicToIntermediate;
 
 public class IncrementDecrementArithmeticOperators
 {
     public static void Main()
     {
         //(+)
-        Console.WriteLine($"+ {3+2}");
+        Console.WriteLine($"+ {3 + 2}");
         //(-)
         Console.WriteLine($"- {3 - 2}");
         //(*)
